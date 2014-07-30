@@ -1,4 +1,3 @@
-Hack4GoodSantiago.github.io
-===========================
+# Hack4Good Santiago Website
 
-Website
+http://hack4goodsantiago.github.io

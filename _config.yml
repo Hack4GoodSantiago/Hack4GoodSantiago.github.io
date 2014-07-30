@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Geeklist hack4good'
+tagline:          'A Jekyll theme'
+description:      'Unidos globalmente hackeamos un mundo mejor'
+url:              http://hack4goodsantiago.github.io
+baseurl:          /
+
+author:
+  name:           'Raul Pino'
+  url:            https://twitter.com/p1nox
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/Hack4GoodSantiago/Hack4GoodSantiago.github.io
