@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Organización
+title: Nosotros
 ---
 
-Ahora mismo estamos a cargo del evento tres colaboradores:
+El equipo organizador esta integrado por:
 
 

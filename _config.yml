@@ -6,8 +6,8 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            'Geeklist hack4good'
-tagline:          'A Jekyll theme'
+title:            'Geeklist hack4good Santiago'
+tagline:          'Santiago'
 description:      'Unidos globalmente hackeamos un mundo mejor'
 url:              http://hack4goodsantiago.github.io
 baseurl:          /
@@ -19,7 +19,3 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/Hack4GoodSantiago/Hack4GoodSantiago.github.io
