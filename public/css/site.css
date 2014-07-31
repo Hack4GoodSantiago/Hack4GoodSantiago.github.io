@@ -13,3 +13,25 @@ p {
 .center {
   text-align: center;
 }
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.justify {
+  text-align: justify;
+}
+
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.groupon-logo-home {
+  width: 95%;
+}
+.socialab-logo-home {
+  height: 165px;
+}
