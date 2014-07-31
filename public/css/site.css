@@ -1,0 +1,15 @@
+p {
+  font-size: larger;
+}
+
+.world-background {
+  background: url('../images/worldmap.png');
+  -webkit-background-size: 100% auto;
+  -moz-background-size: 100% auto;
+  -o-background-size: 100% auto;
+  background-size: 100% auto;
+}
+
+.center {
+  text-align: center;
+}
