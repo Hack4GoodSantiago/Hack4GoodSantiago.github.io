@@ -28,6 +28,7 @@ You should change the references to your facebook, twitter and github account in
 
 * [Hyde](https://github.com/poole/hyde) as Jekyll template.
 * [Pure.css](http://purecss.io) as micro CSS framework.
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/) as icon set.
 * [Google maps](http://www.map-embed.com) to embed event location.
 * [Addthis](http://www.addthis.com/) as sharing plugin.
 * [Disqus](https://disqus.com/) as comment engine.
