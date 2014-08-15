@@ -17,5 +17,6 @@ author:
   url:            https://twitter.com/p1nox
 
 paginate:         5
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 
 # Custom vars
