@@ -10,6 +10,21 @@ p {
   background-size: 100% auto;
 }
 
+.sidebar-about h1 {
+  color: #4f4f56;
+  margin-bottom: 15px;
+}
+.sidebar-about h2 {
+  color: #4f4f56;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+.sidebar-about .lead {
+  margin-top: 0px;
+  margin-bottom: 15px;
+  color: #4f4f56;
+}
+
 .center {
   text-align: center;
 }
