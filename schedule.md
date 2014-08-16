@@ -26,3 +26,5 @@ title: Calendario
 * Evaluación por parte del jurado.
 
 * Entrega de premios.
+
+<iframe src="//player.vimeo.com/video/97233425" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/97233425">RailsGirls Santiago 2014 - Corporativo</a> from <a href="http://vimeo.com/user22350198">Diego Arias</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
