@@ -22,12 +22,15 @@ If you want to use this site as a template for your hack4good city site just:
 
 This website was made with common tools that everyone can use with a github account. If you don't know anything about [Jekyll](http://jekyllrb.com/) or [GitHub Pages](https://pages.github.com/) you should read this [blog post](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
 
-You should change the references to your facebook, twitter and github account in the [head file](https://github.com/Hack4GoodSantiago/Hack4GoodSantiago.github.io/blob/master/_includes/head.html). Also change references to google analytics, addthis sharing and twitter plugin, and if you don't want to use it, just remove it.
+You should change the references to your facebook, twitter and github account in the [head file](https://github.com/Hack4GoodSantiago/Hack4GoodSantiago.github.io/blob/master/_includes/head.html). Also change references to google analytics, addthis, disqus and twitter plugin, and if you don't want to use it, just remove it.
 
 ## Resources included
 
 * [Hyde](https://github.com/poole/hyde) as Jekyll template.
 * [Pure.css](http://purecss.io) as micro CSS framework.
+* [Google maps](http://www.map-embed.com) to embed event location.
+* [Addthis](http://www.addthis.com/) as sharing plugin.
+* [Disqus](https://disqus.com/) as comment engine.
 
 ## Contribute
 
