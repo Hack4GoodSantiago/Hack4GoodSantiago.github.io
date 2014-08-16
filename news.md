@@ -14,7 +14,7 @@ title: Noticias
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.excerpt }}
+    {{ post.excerpt | strip_html }}
   </div>
   {% endfor %}
 </div>

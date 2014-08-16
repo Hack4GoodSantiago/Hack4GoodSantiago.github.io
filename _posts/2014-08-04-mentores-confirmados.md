@@ -5,6 +5,8 @@ title: Mentores confirmados para el evento
 
 Conoce a los que serán los mentores que trabajarán contigo los dias del evento.
 
+<!--more-->
+
 <div class="pure-g">
   <div class="pure-u-7-24">
     <a href="https://twitter.com/luisbajana" target="_new">
@@ -27,8 +29,6 @@ Conoce a los que serán los mentores que trabajarán contigo los dias del evento
     <p>Gonzalo Sánchez <a href="https://twitter.com/gsanchezd" target="_new"><i class="fa fa-twitter"></i></a></p></p>
   </div>
 </div>
-
-<!--more-->
 
 Cada uno trabaja en sus emprendimientos y tienen bastante experiencia en hackathons y eventos de este estilo.
 

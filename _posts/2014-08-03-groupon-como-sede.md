@@ -3,11 +3,11 @@ layout: post
 title: Groupon sede Hack4Good Santiago 2014
 ---
 
-[Groupon Latam](http://www.groupon.cl) ya tiene buenas experiencias siendo sede de varios eventos de este estilo, incluidos el Hack4Good 2013, y más recientemente el [RailsGirls Santiago 2014](http://railsgirls.com/santiago):
-
-![](/public/images/posts/railsgirls.jpg)
+[Groupon Latam](http://www.groupon.cl) ya tiene buenas experiencias siendo sede de varios eventos de este estilo, incluidos el Hack4Good 2013, y más recientemente el [RailsGirls Santiago 2014](http://railsgirls.com/santiago).
 
 <!--more-->
+
+![](/public/images/posts/railsgirls.jpg)
 
 Rails Girls es una iniciativa que busca incentivar a mujeres de todo el mundo, de cualquier edad y sin conocimientos previos de programación, a desarrollar aplicaciones web en Ruby on Rails. Su objetivo es proveer herramientas útiles y fomentar una comunidad para que las mujeres entiendan mejor la tecnología y la aprovechen para dar forma a sus ideas.
 
