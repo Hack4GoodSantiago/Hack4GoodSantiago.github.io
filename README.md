@@ -6,7 +6,7 @@ http://hack4goodsantiago.github.io
 
 If you want to use this site as a template for your hack4good city site just:
 
-* Fork this repo.
+* Fork this repo (if you already have an old version and you just want to update it, merge changes from [release branch](https://github.com/Hack4GoodSantiago/Hack4GoodSantiago.github.io/tree/release)).
 
 * Install [Jekyll](http://jekyllrb.com/docs/installation/):
 
