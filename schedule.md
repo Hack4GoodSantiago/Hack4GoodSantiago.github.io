@@ -5,24 +5,24 @@ title: Calendario
 
 ## 12 Septiembre
 
-* Bienvenida y comienzo oficial a nivel global, vídeo conferencia con los organizadores globales.
+* Bienvenida y comienzo oficial a nivel global, video-conferencia con los organizadores globales.
 
 * Charla pre-hackathon, discutiendo sobre las metas, las reglas y que queremos lograr con el evento a nivel local y global.
 
-* Organización de equipos y división de tareas para los siguientes días.
+* Organizacion de equipos y division de tareas para los siguientes dias.
 
 ## 13 Septiembre
 
-* Presentación de mentores y charla para comenzar a trabajar en los proyectos.
+* Presentacion de mentores y charla para comenzar a trabajar en los proyectos.
 
 ## 14 Septiembre
 
-* Charla para comenzar ultimo día.
+* Charla para comenzar ultimo dia.
 
-* Finalización oficial del evento.
+* Finalizacion oficial del evento.
 
-* Presentación de los proyectos.
+* Presentacion de los proyectos.
 
-* Evaluación por parte del jurado.
+* Evaluacion por parte del jurado.
 
-* Entrega de premios.
+* Entraga de premios.
