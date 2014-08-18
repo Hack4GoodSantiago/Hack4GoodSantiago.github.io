@@ -3,7 +3,7 @@ layout: post
 title: Mentores confirmados para el evento
 ---
 
-Conoce a los que serán los mentores que trabajarán contigo los dias del evento.
+Conoce a los que serán los mentores que trabajarán contigo los días del evento.
 
 <!--more-->
 

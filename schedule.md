@@ -17,7 +17,7 @@ title: Calendario
 
 ## 14 Septiembre
 
-* Charla para comenzar ultimo día.
+* Charla para comenzar último día.
 
 * Finalización oficial del evento.
 
