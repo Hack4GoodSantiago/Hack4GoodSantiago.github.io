@@ -50,3 +50,7 @@ p {
 .socialab-logo-home {
   height: 165px;
 }
+
+.footer {
+  margin-bottom: -64px;
+}
