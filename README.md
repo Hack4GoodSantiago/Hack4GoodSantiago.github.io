@@ -33,6 +33,13 @@ You should change the references to your facebook, twitter and github account in
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/) as icon set.
 * [Disqus](https://disqus.com/) as comment engine.
 
+## Who is using it?
+
+* [New York](https://github.com/swapniltamse/Hack4GoodSantiago.github.io)
+* [Amsterdam](https://github.com/Hack4GoodAmsterdam/Hack4GoodAmsterdam.github.io)
+* [Lusaka](https://github.com/BongoHive/Hack4GoodLusaka.github.io)
+* [Trinidad and Tobago](https://github.com/hack4goodtt/hack4goodtt.github.io)
+
 ## Contribute
 
 * If you have some ideas about how to make this website more awesome or you're running problems using it, just leave us an "[issue](https://github.com/Hack4GoodSantiago/Hack4GoodSantiago.github.io/issues/new)".
