@@ -5,26 +5,26 @@ title: Calendario
 
 ## 12 Septiembre
 
-* Bienvenida y comienzo oficial a nivel global, vídeo conferencia con los organizadores globales.
+* 06:00pm a 07:00pm - Llegada de los participantes. Cualquier participante que esté inscrito en la aplicación del hackathon debería inscribirse.
 
-* Charla pre-hackathon, discutiendo sobre las metas, las reglas y que queremos lograr con el evento a nivel local y global.
+* 07:00pm a 08:00pm - Presentación de bienvenida e introducción de embajadores locales, sponsors, mentores y jueces.
 
-* Organización de equipos y división de tareas para los siguientes días.
+* 08:00pm a 11:00pm - Tormenta de ideas y formación de equipos. Los proyectos creados deberían ser registrados en la aplicación del hackathon.
 
 ## 13 Septiembre
 
-* Presentación de mentores y charla para comenzar a trabajar en los proyectos.
+* Todo el día - Definición de [MVP](http://en.wikipedia.org/wiki/Minimum_viable_product) y comienzo del desarrollo.
 
 ## 14 Septiembre
 
-* Charla para comenzar último día.
+* Mañana - Desarrollo del proyecto.
 
-* Finalización oficial del evento.
+* Tarde - Desarrollo del proyecto y preparación de las presentaciones.
 
-* Presentación de los proyectos.
+* 04:00pm - Hora límite de presentación de la idea.
 
-* Evaluación por parte del jurado.
+* 05:00pm a 07:00pm - Presentacion de los proyectos a nivel local y evaluación de los jueces (transmisión en vivo usando Google Hangouts).
 
-* Entrega de premios.
+* Entrega de premios y cierre del evento.
 
-<iframe src="//player.vimeo.com/video/97233425" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/97233425">RailsGirls Santiago 2014 - Corporativo</a> from <a href="http://vimeo.com/user22350198">Diego Arias</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+{% include disqus.html %}
