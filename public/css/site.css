@@ -45,10 +45,13 @@ p {
 }
 
 .groupon-logo-home {
-  width: 95%;
+  width: 100%;
 }
 .socialab-logo-home {
   height: 165px;
+}
+.allgreenup-logo-home {
+  width: 90%;
 }
 
 .footer {
