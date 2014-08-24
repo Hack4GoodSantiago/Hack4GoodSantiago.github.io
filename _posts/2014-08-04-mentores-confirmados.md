@@ -54,3 +54,11 @@ Cada uno trabaja en sus emprendimientos y tienen bastante experiencia en hackath
     <p><a href="http://en1mes.com/" target="_new">En1Mes</a></p></p>
   </div>
 </div>
+
+Así que tendrás el apoyo necesario para salvar el mundo! Anímate a participar en el hackathon más grande contra el cambio climático!
+
+<div class="center">
+  <a href="https://geekli.st/hackathon/hack4good-06/santiago" target="_new">
+    <button class="pure-button button-success button-xlarge">Registrate</button>
+  </a>
+</div>
