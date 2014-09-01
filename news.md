@@ -18,20 +18,3 @@ title: Noticias
   </div>
   {% endfor %}
 </div>
-
-<div class="pagination">
-  {% if site.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{site.next_page}}">Anterior</a>
-  {% else %}
-    <span class="pagination-item older">Anterior</span>
-  {% endif %}
-  {% if site.previous_page %}
-    {% if site.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Siguiente</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{site.previous_page}}">Siguiente</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Siguiente</span>
-  {% endif %}
-</div>
