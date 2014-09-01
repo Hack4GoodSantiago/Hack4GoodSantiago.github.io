@@ -3,7 +3,7 @@ layout: post
 title: "Confirmado más apoyo de Groupon"
 ---
 
-[Groupon Latam](http://www.groupon.cl) aparte de ser sede del evento, tambien va a estar aportando con la __comida__ para el mismo! :D
+[Groupon Latam](http://www.groupon.cl) aparte de ser sede del evento, tambien va a estar aportando con la __comida__ para el mismo! Pasando a ser __"GOLD GLOBAL SPONSOR"__! :D
 
 <!--more-->
 
