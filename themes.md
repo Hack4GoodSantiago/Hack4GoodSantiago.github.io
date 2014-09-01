@@ -3,7 +3,9 @@ layout: page
 title: Temas
 ---
 
-Más de 2000 ingenieros de software, hackers, diseñadores UI/UX, fabricantes, fundadores, líderes de opinión, pensadores y organizaciones cívicas se reunirán este septiembre en más de 30 ciudades para trabajar en contra del cambio climático, creando prototipos de soluciones tecnológicas (como sitios web, aplicaciones móviles y dispositivos de hardware) que hagan frente a los siguientes retos:
+Más de 2000 ingenieros de software, hackers, diseñadores UI/UX, fabricantes, fundadores, líderes de opinión, pensadores y organizaciones cívicas se reunirán este septiembre en más de 30 ciudades para trabajar en contra del cambio climático.
+
+Si entras en la seccion de ideas de la [Geeklist Hackthon app](https://geekli.st/hackathon/hack4good-06?tab=ideas) podrás iluminarte y crear increibles soluciones tecnológicas (como sitios web, aplicaciones móviles y dispositivos de hardware) que hagan frente a los siguientes retos:
 
 ### Conocimiento climático:
 
