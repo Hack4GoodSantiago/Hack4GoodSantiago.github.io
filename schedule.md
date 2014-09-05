@@ -13,11 +13,11 @@ title: Calendario
 
 ## 13 Septiembre
 
-* Todo el día - Definición de [MVP](http://en.wikipedia.org/wiki/Minimum_viable_product) y comienzo del desarrollo.
+* Todo el día (empezando a las 09:00am) - Definición de [MVP](http://en.wikipedia.org/wiki/Minimum_viable_product) y comienzo del desarrollo.
 
 ## 14 Septiembre
 
-* Mañana - Desarrollo del proyecto.
+* Mañana (empezando a las 09:00am) - Desarrollo del proyecto.
 
 * Tarde - Desarrollo del proyecto y preparación de las presentaciones.
 
