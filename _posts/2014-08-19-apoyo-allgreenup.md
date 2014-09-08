@@ -26,3 +26,5 @@ Así que ya con todos éstos reconocimientos y oportunidades anímate a particip
     <button class="pure-button button-success button-xlarge">Registrate</button>
   </a>
 </div>
+
+Contacto: [Andres Luongo](https://twitter.com/Aaluongo).

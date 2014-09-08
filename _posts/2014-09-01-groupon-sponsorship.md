@@ -10,3 +10,5 @@ title: "Confirmado más apoyo de Groupon"
 ![](/public/images/groupon-logo.png)
 
 Así que anímate e inscribete, vas a tener comida para quemar todo el fin de semana :D
+
+Contacto: [Raúl Pino](https://twitter.com/p1nox).
